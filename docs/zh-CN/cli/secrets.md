@@ -7,7 +7,7 @@ read_when:
 title: "secrets"
 x-i18n:
   source_path: docs/cli/secrets.md
-  source_hash: f12140702d25bd4d
+  source_hash: f12140702d25bd4dd17582bd1b6c00e065ecf95e21038dd2caf4828cfd4b6071
   workflow: manual
   translator: xingzihai
 ---
